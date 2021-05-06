@@ -22,3 +22,10 @@ in github
 
 Hello
 
+## Not committed 
+
+No commit
+
+## Not staged
+
+Not staged here!
