@@ -34,6 +34,8 @@ Not staged here!
 
 This is tianyang. Copyright owned to Tianyang at this time.
 
+All rights reserved.
+
 ## changes by master (for merge)
 
 222
