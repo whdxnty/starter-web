@@ -32,4 +32,4 @@ Not staged here!
 
 ## copyright
 
-This is tianyang.
+This is tianyang. Copyright owned to Tianyang at this time.
