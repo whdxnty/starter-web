@@ -34,13 +34,6 @@ Not staged here!
 
 This is tianyang. Copyright owned to Tianyang at this time.
 
-<<<<<<< HEAD
 ## changes by master (for merge)
-=======
-## How to contribute
 
-ABC!
-
-
-# merge again
->>>>>>> simple-changes
+333
