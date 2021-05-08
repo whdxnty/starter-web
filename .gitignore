@@ -2,3 +2,4 @@
 helloworld/hello.txt
 *.log
 log/
+*.orig

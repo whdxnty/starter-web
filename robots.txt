@@ -2,8 +2,4 @@
 
 User-agent: *
 
-<<<<<<< HEAD
-Hello Tianyang on master!
-=======
 Hello tianyang realwork
->>>>>>> realwork
