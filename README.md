@@ -29,19 +29,3 @@ No commit
 ## Not staged
 
 Not staged here!
-
-## copyright
-
-This is tianyang. Copyright owned to Tianyang at this time.
-
-All rights reserved.
-
-Some changes
-
-## changes by master (for merge)
-
-222
-
-## add a line for rebasing example
-
-## more features on myfeature
