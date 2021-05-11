@@ -22,7 +22,7 @@ in github
 
 Hello
 
-## Not committed 
+## Not committed
 
 No commit
 
